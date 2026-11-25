@@ -1,0 +1,4 @@
+strategy,mean_ss,mean_judge,mean_ppl,mean_joules,mean_latency,mean_cultural,mean_concept,n_prompts
+best_of_n,0.5,6.672,5264.4721,550.0399,5.6464,0.3083,0.498,250
+greedy,0.502,6.704,4063.7336,106.7133,1.1072,0.3083,0.5081,250
+incline,0.5,6.592,5105.5114,106.3416,1.1316,0.3083,0.504,250
